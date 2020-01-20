@@ -1,4 +1,9 @@
 import Post from './Post'
-const post = new Post('Webpack Post Title')
+import json from './assets/json'
+import styles from './styles/styles.css'
+import logo from './assets/webpack-logo.png'
+
+const post = new Post('Webpack Post Title', logo)
 console.log(post.toString());
-console.log(post.toString());
+
+console.log(json);

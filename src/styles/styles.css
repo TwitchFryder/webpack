@@ -1,0 +1,17 @@
+.container {
+    margin: 0 auto;
+    max-width: 1000px;
+}
+
+.logo {
+    background:;
+    background-size: cover;
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+}
+
+h1 {
+    text-align: center;
+    color: #f00;
+}
